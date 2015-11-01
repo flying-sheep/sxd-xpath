@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["LiteralValue",""],["Value",""]],"macro":[["nodeset!","Convenience constructor for a nodeset"]],"mod":[["axis",""],["function",""],["nodeset",""],["parser",""],["tokenizer",""]],"struct":[["EvaluationContext",""],["Factory",""]],"trait":[["Expression",""]],"type":[["Functions",""],["Namespaces",""],["Variables",""]]});

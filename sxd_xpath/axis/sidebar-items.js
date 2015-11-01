@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["PrincipalNodeType",""]],"struct":[["Ancestor",""],["AncestorOrSelf",""],["Attribute",""],["Child",""],["Descendant",""],["DescendantOrSelf",""],["Following",""],["FollowingSibling",""],["Namespace",""],["Parent",""],["Preceding",""],["PrecedingSibling",""],["SelfAxis",""]],"trait":[["Axis","A directed traversal of Nodes."]],"type":[["SubAxis",""]]});
